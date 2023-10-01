@@ -37,7 +37,7 @@
   {
     "name": "Oneplus 7t",
     "price": 25000,
-    "featured": true,
+    "featured": false,
     "rating": 4.5,
     "company": "oneplus"
   },
@@ -58,7 +58,7 @@
   {
     "name": "Dell Latitude 3520 Core i5 11th Gen 15.6 HD Laptop",
     "price": 45000,
-    "featured": true,
+    "featured": false,
     "rating": 4.5,
     "company": "dell"
   },
