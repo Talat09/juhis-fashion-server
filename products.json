@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Iphone 10",
+    "price": 44499,
+    "featured": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Iphone 11",
+    "price": 54499,
+    "featured": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Iphone 11 pro",
+    "price": 64499,
+    "featured": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "IWatch",
+    "price": 64499,
+    "featured": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Oneplus 7",
+    "price": 20000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "oneplus"
+  },
+  {
+    "name": "Oneplus 7t",
+    "price": 25000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "oneplus"
+  },
+  {
+    "name": "Oneplus 7 pro",
+    "price": 29000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "oneplus"
+  },
+  {
+    "name": "Dell Inspiron 15 3525 Ryzen 3 5425U 15.6 FHD Laptop",
+    "price": 50000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Latitude 3520 Core i5 11th Gen 15.6 HD Laptop",
+    "price": 45000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Latitude 3520 Core i3 11th Gen 15.6 HD Laptop",
+    "price": 75000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Dell Inspiron 15 3520 Core i5 12th Gen 15.6 FHD Laptop",
+    "price": 81500,
+    "featured": true,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 Pro 5G",
+    "price": 37999,
+    "featured": true,
+    "rating": 4.5,
+    "company": "mi"
+  },
+  {
+    "name": "Xiaomi Redmi Note 12",
+    "price": 19999,
+    "featured": true,
+    "rating": 4.5,
+    "company": "mi"
+  },
+  {
+    "name": "Xiaomi Redmi A1+",
+    "price": 15000,
+    "featured": true,
+    "rating": 4.5,
+    "company": "mi"
+  }
+]
